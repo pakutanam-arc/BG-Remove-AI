@@ -1,0 +1,6 @@
+{
+  "name": "BGRemove AI",
+  "description": "Aplikasi hapus background dan edit AI (Ganti Background, Enhance, Hapus Objek).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
